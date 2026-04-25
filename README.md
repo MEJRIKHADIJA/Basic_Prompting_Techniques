@@ -1,2 +1,2 @@
-# prompt-classifier-
-# prompt-classifier-
+# Basic Prompting Techniques-
+# Basic Prompting Techniques-
